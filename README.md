@@ -6,7 +6,7 @@ Although it is a good idea to run your stuff inside a docker container, there ar
 
 For example, one application might use an older python version and you local python does not work correctly with the one used in the project. What to do?
 
-It would be cool, if we could somehow get the tools we want from some environment, and have the posibbility to just use them. `devbox` addresses this issue.
+It would be cool, if we could somehow get the tools we want from some environment, and have the possibility to just use them. `devbox` addresses this issue.
 
 ## Prerequisites
 
